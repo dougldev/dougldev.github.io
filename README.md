@@ -1,6 +1,6 @@
 # DougWeb
 
 - [x] Bug's fixed.
-- [ ] No responsive.
+- [ ] responsive.
 
 [Discord](https://discord.gg/a9Yaxdq)
